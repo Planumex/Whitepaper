@@ -75,27 +75,43 @@ Planumex is a Proof of Stake cryptocurrency below is the technical information r
 
 ## PEX Specifications
 PEX – Cryptocurrency with proof-of-stake (POS) forging
+
 Total Supply: 1,000,000,000 PEX
+
 Circulating Supply: 300,000,000 PEX
+
 Each PEX is divisible to 10^8 NQT (8 decimal places)
+
 Hash Algorithm: SHA-256
+
 Encryption Algorithm: Curve25519
+
 Block speed: 1 Minute
+
 Transactions per block: 256
+
 Max attachment size: 42K
+
 POS difficulty is recalculated every two block
+
 POS reward: only transaction fees
+
 
 ## PEX Port Numbers
 API Port: 1358
+
 Primary Port: 1756
+
 Testnet Port: 9354
+
 
 The port numbers are important to us and resemble a meaning. For example the motion to enter 1358 is similar to a launch arrow or to go. The API port is a clockwise forward moving motion. The testnet is a way to go back in time or reverse. 
 
 ## Public Facing Nodes (Users encouraged to create more & earn)
 13.52.72.247
+
 54.176.44.212
+
 
 # How to Create a PEX Wallet
 
@@ -104,12 +120,17 @@ You can also watch this informative walkthrough video on installing the Planumex
 
 First you will want to clone or download the Planumex Blockchain here: https://github.com/Planumex/Planumex-Blockchain
 
+
+
 Download and install the following required programs to connect:
 
 
 Java JDK 8: https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
 Java JRE 8: https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
 Nodejs LTS: https://nodejs.org/en/ 
+
  
  
  
